@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="2.862">
+  <testsuite name="Calculator Functions" errors="0" failures="0" skipped="0" timestamp="2025-04-27T18:39:12" time="1.176" tests="5">
+    <testcase classname="Calculator Functions appendToDisplay adds value to zero" name="Calculator Functions appendToDisplay adds value to zero" time="0.011">
+    </testcase>
+    <testcase classname="Calculator Functions appendToDisplay appends value to existing" name="Calculator Functions appendToDisplay appends value to existing" time="0.001">
+    </testcase>
+    <testcase classname="Calculator Functions clearDisplay returns zero" name="Calculator Functions clearDisplay returns zero" time="0.002">
+    </testcase>
+    <testcase classname="Calculator Functions calculate evaluates valid expression" name="Calculator Functions calculate evaluates valid expression" time="0.001">
+    </testcase>
+    <testcase classname="Calculator Functions calculate handles invalid expression" name="Calculator Functions calculate handles invalid expression" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>

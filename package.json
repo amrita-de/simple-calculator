@@ -1,0 +1,23 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "A simple web-based calculator",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "test": "jest --reporters=default --reporters=jest-junit"
+  },
+  "keywords": [
+    "calculator",
+    "web",
+    "javascript",
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jest-junit": "^16.0.0"
+  }
+}
