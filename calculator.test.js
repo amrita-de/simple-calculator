@@ -18,6 +18,6 @@ describe('Calculator Functions', () => {
     });
 
     test('calculate handles invalid expression', () => {
-        expect(calculate('2+')).toBe('Error');
+        expect(calculate('2+')).toBe('Error')  ;
     });
 });
